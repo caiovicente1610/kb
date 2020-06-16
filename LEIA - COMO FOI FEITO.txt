@@ -4,5 +4,6 @@ Na tela de login está cadastrado o usuario admin com a senha 123456, podendo se
 A página At.php é tem como objetivo atualizar ou excluir um registro.
 Na página mestre.php, é mostrado o registro da busca feita no campo de busca onde o mesmo esta localizado na página cadastro.
 A chave primária do banco de dados é o campo CPF
+E claro, o código da página delete.php tem a função de excluir o registro selecionado e redirecionando para a página apagado.php caso o registro tenha sido excluído com sucesso.
 
 
