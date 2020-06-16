@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+	<infoitem key="UD_Recordset9" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+	<infoitem key="UD_RecordsetCPF" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+	<infoitem key="UD_CPF" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+	<infoitem key="UD_recordcpf" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+</info>

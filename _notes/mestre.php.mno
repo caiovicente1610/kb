@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DetailRS1" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+	<infoitem key="UD_Recordset1" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+	<infoitem key="UD_bname" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+	<infoitem key="UD_busca3" value="name:Nome;datatype:string" />
+	<infoitem key="UD_CPF" value="name:Nome;datatype:string,name:CPF;datatype:int,name:RG;datatype:int,name:Data de Nasc;datatype:date,name:Telefone;datatype:int,name:End 1;datatype:string,name:End2;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+Esse é um sistema bem simples para cadastro de clientes, foi utilizada a versão do xampp 5.6.40, para rodar no servidor localhost, PHP e MySQL.
+Na tela Index.php clique para no link para efetuar o login.
+Na tela de login está cadastrado o usuario admin com a senha 123456, podendo ser acrescentado outros na própria base de dados, utilizando o PHPMyAdmin dentro do próprio xampp. No mesmo, basta logar como root sem senha.
+
+
